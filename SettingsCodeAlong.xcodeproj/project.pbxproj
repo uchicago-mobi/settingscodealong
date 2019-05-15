@@ -14,6 +14,7 @@
 		763521EB228CCD8F0000BC80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 763521EA228CCD8F0000BC80 /* Assets.xcassets */; };
 		763521EE228CCD8F0000BC80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 763521EC228CCD8F0000BC80 /* LaunchScreen.storyboard */; };
 		763521F9228CCD8F0000BC80 /* SettingsCodeAlongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 763521F8228CCD8F0000BC80 /* SettingsCodeAlongTests.swift */; };
+		76352204228CCDD80000BC80 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 76352203228CCDD80000BC80 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		763521F4228CCD8F0000BC80 /* SettingsCodeAlongTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SettingsCodeAlongTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		763521F8228CCD8F0000BC80 /* SettingsCodeAlongTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsCodeAlongTests.swift; sourceTree = "<group>"; };
 		763521FA228CCD8F0000BC80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76352203228CCDD80000BC80 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				763521E0228CCD8E0000BC80 /* AppDelegate.swift */,
 				763521E2228CCD8E0000BC80 /* ViewController.swift */,
 				763521E4228CCD8E0000BC80 /* Main.storyboard */,
+				76352203228CCDD80000BC80 /* Settings.bundle */,
 				763521EA228CCD8F0000BC80 /* Assets.xcassets */,
 				763521EC228CCD8F0000BC80 /* LaunchScreen.storyboard */,
 				763521EF228CCD8F0000BC80 /* Info.plist */,
@@ -180,6 +183,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76352204228CCDD80000BC80 /* Settings.bundle in Resources */,
 				763521EE228CCD8F0000BC80 /* LaunchScreen.storyboard in Resources */,
 				763521EB228CCD8F0000BC80 /* Assets.xcassets in Resources */,
 				763521E6228CCD8E0000BC80 /* Main.storyboard in Resources */,
